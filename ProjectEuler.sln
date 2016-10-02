@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25402.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "37TruncPrimes", "37TruncPrimes\37TruncPrimes.vcxproj", "{7F3F6903-F9B1-443A-90A5-C4EB88715487}"
 EndProject
@@ -48,6 +48,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "65eConv", "65eConv\65eConv.vcxproj", "{7BD8700B-8DC7-4FC2-ACD5-59066A3AF196}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "65eContFrac", "65eContFrac\65eContFrac.pyproj", "{0DAB0913-1024-4B80-8730-682AAA98356E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "57SqrtConv", "57SqrtConv\57SqrtConv.pyproj", "{A262CFF9-A33F-460F-97D0-2024386AD7BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +287,12 @@ Global
 		{0DAB0913-1024-4B80-8730-682AAA98356E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DAB0913-1024-4B80-8730-682AAA98356E}.Release|x64.ActiveCfg = Release|Any CPU
 		{0DAB0913-1024-4B80-8730-682AAA98356E}.Release|x86.ActiveCfg = Release|Any CPU
+		{A262CFF9-A33F-460F-97D0-2024386AD7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A262CFF9-A33F-460F-97D0-2024386AD7BA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A262CFF9-A33F-460F-97D0-2024386AD7BA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A262CFF9-A33F-460F-97D0-2024386AD7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A262CFF9-A33F-460F-97D0-2024386AD7BA}.Release|x64.ActiveCfg = Release|Any CPU
+		{A262CFF9-A33F-460F-97D0-2024386AD7BA}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
