@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "55Lychrel", "55Lychrel\55Ly
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "76CountSum", "76CountSum\76CountSum.vcxproj", "{0065EEAE-B2BC-43E4-9D11-E33CB0CAAB03}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "51CycFig", "51CycFig\51CycFig.vcxproj", "{71BDD022-E673-45E5-9B5D-A5E79C78788E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -380,6 +382,16 @@ Global
 		{0065EEAE-B2BC-43E4-9D11-E33CB0CAAB03}.Release|x64.Build.0 = Release|x64
 		{0065EEAE-B2BC-43E4-9D11-E33CB0CAAB03}.Release|x86.ActiveCfg = Release|Win32
 		{0065EEAE-B2BC-43E4-9D11-E33CB0CAAB03}.Release|x86.Build.0 = Release|Win32
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Debug|x64.ActiveCfg = Debug|x64
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Debug|x64.Build.0 = Debug|x64
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Debug|x86.ActiveCfg = Debug|Win32
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Debug|x86.Build.0 = Debug|Win32
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Release|Any CPU.ActiveCfg = Release|Win32
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Release|x64.ActiveCfg = Release|x64
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Release|x64.Build.0 = Release|x64
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Release|x86.ActiveCfg = Release|Win32
+		{71BDD022-E673-45E5-9B5D-A5E79C78788E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
